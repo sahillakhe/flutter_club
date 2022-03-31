@@ -1,8 +1,8 @@
 # This is a generated file; do not edit or check into version control.
-firebase_auth=/home/sahil/repositories/flutterfire/packages/firebase_auth/firebase_auth/
-firebase_auth_web=/home/sahil/repositories/flutterfire/packages/firebase_auth/firebase_auth_web/
-firebase_core=/home/sahil/repositories/flutterfire/packages/firebase_core/firebase_core/
-firebase_core_web=/home/sahil/repositories/flutterfire/packages/firebase_core/firebase_core_web/
+firebase_auth=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.12/
+firebase_auth_web=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.10/
+firebase_core=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.14.0/
+firebase_core_web=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.1/
 google_sign_in=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.4/
 google_sign_in_web=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+5/
 twitter_login=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/twitter_login-4.0.1/
