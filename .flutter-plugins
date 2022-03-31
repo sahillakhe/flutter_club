@@ -1,0 +1,18 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/home/sahil/repositories/flutterfire/packages/firebase_auth/firebase_auth/
+firebase_auth_web=/home/sahil/repositories/flutterfire/packages/firebase_auth/firebase_auth_web/
+firebase_core=/home/sahil/repositories/flutterfire/packages/firebase_core/firebase_core/
+firebase_core_web=/home/sahil/repositories/flutterfire/packages/firebase_core/firebase_core_web/
+google_sign_in=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.4/
+google_sign_in_web=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+5/
+twitter_login=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/twitter_login-4.0.1/
+url_launcher=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.20/
+url_launcher_android=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.15/
+url_launcher_ios=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_ios-6.0.15/
+url_launcher_linux=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-3.0.0/
+url_launcher_macos=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-3.0.0/
+url_launcher_web=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.9/
+url_launcher_windows=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-3.0.0/
+webview_flutter=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-3.0.1/
+webview_flutter_android=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.3/
+webview_flutter_wkwebview=/home/sahil/Android/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_wkwebview-2.7.1/
