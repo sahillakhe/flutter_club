@@ -1,6 +1,8 @@
 name: firebase_auth_example
 description: Demonstrates how to use the firebase_auth plugin.
 
+version: 0.0.1+1
+
 environment:
   sdk: ">=2.16.0 <3.0.0"
 
